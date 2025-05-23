@@ -3,7 +3,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using SearchTests;
 
-namespace EksamensTests
+namespace Tests
 {
     [TestClass]
     public class UnitTest1
